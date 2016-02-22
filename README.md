@@ -21,7 +21,8 @@ previous lab has been included.
 request.
 3. Modify the `show.html.erb` page code to properly request JSON from
    the `products/id` route.
-4. Make sure tests pass!
+4. Make sure tests pass! Some will pass at the beginning. The trick is
+   making sure they all *still* pass at the end!
 
 **Note:** If you do everything correctly, you won't have to change any
 of the code that constructs the `show` view, only the the route to
