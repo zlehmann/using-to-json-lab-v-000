@@ -2,7 +2,7 @@
 
 ## Objectives
 
-  1. Understand how to use `to_json` to display data.
+  1. Explain how to use `to_json` to display data.
   2. Use `respond_to` to render JSON or HTML from the same action.
 
 ## Introduction
